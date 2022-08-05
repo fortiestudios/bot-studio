@@ -14,7 +14,7 @@ It depends on utilities. Just insert the token of your bot on discord developer 
 # -------------------------
 
 Name: "40's Studios"
-Token: "MTAwNDY1MTU0NjQ0MjcyNzQ5NQ.GFQ_w0.W-9dvhp7NNAfEXSY0aQ8MyFFVqn6kctGy5V_yY"
+Token: "ADDTOKEN_DISCORD_DEVELOPER"
 ```
 
 ## API 
