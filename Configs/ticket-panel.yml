@@ -1,0 +1,22 @@
+# -------------------------------
+#   Ticket Panel Configuration
+# -------------------------------
+
+TicketPanel: true
+
+# ----------------------------------------
+#   Ticket Panel Message Configuration
+# ----------------------------------------
+
+Channel: "ticket-creation"
+
+PanelTitle: "Need Help? Create a Support Ticket."
+PanelColour: "#f74343"
+
+TicketPanel_Description: true
+TicketPanel_Thumbnail: true
+TicketPanel_Image: true
+
+PanelMessage: "Click the button to open a new support ticket."
+PanelThumbnail: "https://i.imgur.com/ieeZejl.png"
+PanelImage: "https://i.imgur.com/5NkcmDq.png"
