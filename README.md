@@ -10,7 +10,7 @@ It depends on utilities. Just insert the token of your bot on discord developer 
 
 ``` yaml
 # -------------------------
-#   General Configuration
+#   General Configuration 
 # -------------------------
 
 Name: "40's Studios"
